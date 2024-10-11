@@ -1,27 +1,37 @@
 # Richard Matheus 
 
-## Atuo na área de data science utilizando diferentes tecnologias do python
+## Backend / DevOps / FullStack / Data Analytics / Automation / Webscraping
 
-No momento estudo projetos fullStack na aréa web utilizando principalmente o framework django e o djangorestframework para
-construção de APIs rest, e utilizando o Javascript com o react para a construção de interfaces web. 
+Atualmente, estou estudando desenvolvimento **FullStack** com foco em projetos **web**. No back-end, uso principalmente **Django** e **Django Rest Framework** para criar APIs REST. Já no front-end, gosto de trabalhar com **JavaScript** e **React** para construir interfaces web.
 
-É aqui onde organizo os meus principais projetos de estudo, anoto algumas coisas, e guardo pequenos projetos para quem sabe
-uma utilização futura. 😆🙈
+Aqui você vai encontrar meus principais projetos de estudo, anotações, e alguns pequenos projetos que podem ser úteis no futuro. 😆🙈
 
 <div align="center">
-  <a href="https://github.com/RichardMatheus929/RichardMatheus929">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardMatheus929&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMatheus929&layout=compact&langs_count=7&theme=dark"/>
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardMatheus929&theme=github_dark)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RichardMatheus929&theme=github_dark) 
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichardMatheus929&theme=github_dark)
+
+##
+
 </div>
+
+### Principais Tecnologias que Trabalho
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardMatheus929&theme=dark"/>
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg" alt="Django Rest Framework" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+
 </div>
-<div style="display: inline_block"><br>
-   
-### Principais tecnologias que trabalho
-<img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
-### Meus contatos    
+
+### Meus Contatos    
 <div>
 <a href="https://instagram.com/richardmatheus03" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:richardmatheus929@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
