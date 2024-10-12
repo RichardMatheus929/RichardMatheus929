@@ -2,8 +2,6 @@
 
 ## Backend / DevOps / FullStack / Data Analytics / Automation / Webscraping
 
-Atualmente, estou estudando desenvolvimento **FullStack** com foco em projetos **web**. No back-end, uso principalmente **Django** e **Django Rest Framework** para criar APIs REST. Já no front-end, gosto de trabalhar com **JavaScript** e **React** para construir interfaces web.
-
 Aqui você vai encontrar meus principais projetos de estudo, anotações, e alguns pequenos projetos que podem ser úteis no futuro. 😆🙈
 
 <div align="center">
