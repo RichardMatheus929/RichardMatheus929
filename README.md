@@ -1,6 +1,6 @@
 # Richard Matheus 
 
-## Backend / Frontenda / FullStack / Data Analytics / Automation / Webscraping
+## Backend / Frontend / FullStack / Data Analytics / Automation / Webscraping
 
 <div align="center">
 
