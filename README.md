@@ -1,8 +1,6 @@
 # Richard Matheus 
 
-## Backend / DevOps / FullStack / Data Analytics / Automation / Webscraping
-
-Aqui você vai encontrar meus principais projetos de estudo, anotações, e alguns pequenos projetos que podem ser úteis no futuro. 😆🙈
+## Backend / Frontenda / FullStack / Data Analytics / Automation / Webscraping
 
 <div align="center">
 
@@ -19,12 +17,12 @@ Aqui você vai encontrar meus principais projetos de estudo, anotações, e algu
 <div align="center">
 
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" />          
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg" alt="Django Rest Framework" />
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" />
-<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" />
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.JS"/>
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
 
 </div>
